@@ -4,3 +4,4 @@
 Arm Conception which was developed in the spring of 2022.
 
 And it is even not the whole process.
+![Robotech Short Description](https://user-images.githubusercontent.com/92337987/169848222-2753a9af-ff01-45c4-a058-b2dcaaae3f28.png)
