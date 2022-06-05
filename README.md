@@ -28,7 +28,7 @@ Presentation/Report about project
 [Modele_pptx_Polytech_Nancy_2020-2021.pptx](https://github.com/Jokuchh/RoboTech/files/8754961/Modele_pptx_Polytech_Nancy_2020-2021.pptx)
 
 
-**![169848222-2753a9af-ff01-45c4-a058-b2dcaaae3f28](https://user-images.githubusercontent.com/92337987/172052774-2ed2a00a-0544-485f-a8d8-94be89f6f9ff.png)**
+![image](https://user-images.githubusercontent.com/92337987/172059620-7f4dd99e-ba2c-4ee8-80dd-4099a57a28f1.png)
 
 # EQUIPE DE L'ANNEE 2021-2022
 ![image](https://user-images.githubusercontent.com/92337987/172059602-caefbb56-d250-4782-bdd8-66bb02ff9c88.png)
